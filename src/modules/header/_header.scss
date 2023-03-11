@@ -1,3 +1,12 @@
 .header {
     color: #f00;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem 0;
+    background: #e8e8e8;
+
+    img {
+        margin-right: 0.5rem;
+    }
 }
