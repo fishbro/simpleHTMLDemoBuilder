@@ -1,0 +1,20 @@
+{
+  "name": "simpledemobuilder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "demo": "gulp"
+  },
+  "author": "fish_bro",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.28.3",
+    "gulp": "^4.0.2",
+    "gulp-file-include": "^2.3.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "prettier": "^2.8.4",
+    "sass": "^1.59.2"
+  }
+}
